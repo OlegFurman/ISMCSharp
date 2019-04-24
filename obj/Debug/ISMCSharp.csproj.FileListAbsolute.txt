@@ -1,0 +1,7 @@
+C:\Практика\ISMCSharp\bin\Debug\ISMCSharp.exe.config
+C:\Практика\ISMCSharp\bin\Debug\ISMCSharp.exe
+C:\Практика\ISMCSharp\bin\Debug\ISMCSharp.pdb
+C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.csprojAssemblyReference.cache
+C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.csproj.CoreCompileInputs.cache
+C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.exe
+C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.pdb
