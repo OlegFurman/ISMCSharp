@@ -5,3 +5,5 @@ C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.csprojAssemblyReference.cache
 C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.csproj.CoreCompileInputs.cache
 C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.exe
 C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.pdb
+C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.WinForm01.resources
+C:\Практика\ISMCSharp\obj\Debug\ISMCSharp.csproj.GenerateResource.cache
