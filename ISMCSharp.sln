@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMCSharp", "ISMCSharp.csproj", "{E1B5ADE7-19F9-4946-82F6-36413E408E23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console01", "Console01.csproj", "{E1B5ADE7-19F9-4946-82F6-36413E408E23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm01", "..\WindowsFormsApp1\WinForm01.csproj", "{02D909FC-CE9B-449E-99E2-0BDF0AC6BD83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm01", "..\WinForm01\WinForm01.csproj", "{6C5198C0-7706-4CD3-85B3-962D1E058397}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{E1B5ADE7-19F9-4946-82F6-36413E408E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1B5ADE7-19F9-4946-82F6-36413E408E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1B5ADE7-19F9-4946-82F6-36413E408E23}.Release|Any CPU.Build.0 = Release|Any CPU
-		{02D909FC-CE9B-449E-99E2-0BDF0AC6BD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{02D909FC-CE9B-449E-99E2-0BDF0AC6BD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{02D909FC-CE9B-449E-99E2-0BDF0AC6BD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{02D909FC-CE9B-449E-99E2-0BDF0AC6BD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5198C0-7706-4CD3-85B3-962D1E058397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5198C0-7706-4CD3-85B3-962D1E058397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5198C0-7706-4CD3-85B3-962D1E058397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5198C0-7706-4CD3-85B3-962D1E058397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
