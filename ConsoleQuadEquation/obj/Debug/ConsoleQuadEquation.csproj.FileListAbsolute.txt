@@ -1,0 +1,7 @@
+C:\Практика\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe.config
+C:\Практика\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe
+C:\Практика\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.pdb
+C:\Практика\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.csprojAssemblyReference.cache
+C:\Практика\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.csproj.CoreCompileInputs.cache
+C:\Практика\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.exe
+C:\Практика\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.pdb
