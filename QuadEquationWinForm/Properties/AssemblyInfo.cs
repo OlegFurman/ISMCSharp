@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("WinForm01")]
+[assembly: AssemblyTitle("QuadEquationWinForm")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WinForm01")]
+[assembly: AssemblyProduct("QuadEquationWinForm")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("80d3d3c9-b601-4c6e-9e29-b35452de28fe")]
+[assembly: Guid("4992a0be-0c6f-4179-ab9d-c99d51315ce9")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
