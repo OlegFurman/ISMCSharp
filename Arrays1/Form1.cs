@@ -15,7 +15,6 @@ namespace Arrays1
         public Form1()
         {
             InitializeComponent();
-     
             
         }
 
@@ -34,6 +33,11 @@ namespace Arrays1
                     dataArr.ColumnCount = n;
                     dataArr.RowCount = 1;
                     buttonFill.Enabled = true;
+                    for (int i = 0; i < n; i++)
+                    {
+                        dataArr.Columns[i].HeaderText = i.ToString();
+                        dataArr.Columns[i].Width = 50;
+                    }
                 }
                 catch (Exception ex)
                 {
